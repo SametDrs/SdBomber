@@ -1,5 +1,4 @@
 # SdBomber
-Sms Bomber
 <strong>Sms Bomber</strong>
 <br>
 Girilen numaraya farklı yerlerden doğrulama kodu göndermeyi sağlar.
