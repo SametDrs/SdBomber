@@ -1,0 +1,51 @@
+/* #0f0f0f
+#222222
+#272727
+#f1f1f1 */
+
+QWidget {
+    color: #f1f1f1;
+    background-color: #0f0f0f;
+}
+
+QLabel#sdLogo {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+QLabel#gonderilenSms {
+    color: #0f2;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+QLabel#bitisLbl {
+    color: #f70;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+QLineEdit {
+    width: 150px;
+    height: 25px;
+    border: 1px solid #272727;
+    outline: none;
+    border-radius: 7px;
+    font-size: 16px;
+}
+
+QPushButton {
+    background-color: #222222;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+QPushButton:hover {
+    background-color: #272727;
+}
+
+QPushButton:pressed {
+    background-color: #222222;
+}
